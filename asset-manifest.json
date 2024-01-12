@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/HairSalonWebsite/static/css/main.1a33667a.css",
+    "main.js": "/HairSalonWebsite/static/js/main.1dcca39e.js",
+    "static/media/bannerImg.png": "/HairSalonWebsite/static/media/bannerImg.fc0dd10e0c5cece5fe91.png",
+    "static/media/shopImg11.jpg": "/HairSalonWebsite/static/media/shopImg11.6e2452676aef0a543ccc.jpg",
+    "static/media/shopImg13.jpg": "/HairSalonWebsite/static/media/shopImg13.d66480925ffc98d1e4ae.jpg",
+    "static/media/headerImg.jpg": "/HairSalonWebsite/static/media/headerImg.179502413decab39f987.jpg",
+    "static/media/shopImg12.jpg": "/HairSalonWebsite/static/media/shopImg12.342237bf9b440d48bedb.jpg",
+    "static/media/shopImg8.jpg": "/HairSalonWebsite/static/media/shopImg8.7f88b8f74863a1113d30.jpg",
+    "static/media/shopImg9.jpg": "/HairSalonWebsite/static/media/shopImg9.903e80f6b4b5fdb4626c.jpg",
+    "static/media/whatsapp.png": "/HairSalonWebsite/static/media/whatsapp.098c5548fc8bebd9351d.png",
+    "static/media/membership.jpg": "/HairSalonWebsite/static/media/membership.c1228130fe3b665b99de.jpg",
+    "static/media/eshop1.jpg": "/HairSalonWebsite/static/media/eshop1.f909906d241e77d6104f.jpg",
+    "static/media/shopImg5.jpg": "/HairSalonWebsite/static/media/shopImg5.e779029a5ee3833c9233.jpg",
+    "static/media/eshop2.jpg": "/HairSalonWebsite/static/media/eshop2.2e40ab5a370087e8ae8a.jpg",
+    "static/media/eshop4.jpg": "/HairSalonWebsite/static/media/eshop4.52cdf4872f45e9a6c742.jpg",
+    "static/media/eshop3.jpg": "/HairSalonWebsite/static/media/eshop3.ba659f43518d24aac965.jpg",
+    "static/media/shopImg1.jpg": "/HairSalonWebsite/static/media/shopImg1.831e3d8ba00b77ee48a1.jpg",
+    "static/media/spa.jpg": "/HairSalonWebsite/static/media/spa.7d3c6b097aacd19e9632.jpg",
+    "static/media/eshop5.jpg": "/HairSalonWebsite/static/media/eshop5.ca3e65012473ae746980.jpg",
+    "static/media/eshop6.jpg": "/HairSalonWebsite/static/media/eshop6.56bcfeef7c430bd39ec3.jpg",
+    "static/media/shopImg3.jpg": "/HairSalonWebsite/static/media/shopImg3.4a8a57e03c5b458c32b6.jpg",
+    "static/media/contactImg.jpg": "/HairSalonWebsite/static/media/contactImg.4012bf871d1d59eb3670.jpg",
+    "static/media/brand3.avif": "/HairSalonWebsite/static/media/brand3.3f4f255a2a9a3e7b7194.avif",
+    "static/media/brand4.webp": "/HairSalonWebsite/static/media/brand4.5b544fb0f593f84802f7.webp",
+    "index.html": "/HairSalonWebsite/index.html",
+    "main.1a33667a.css.map": "/HairSalonWebsite/static/css/main.1a33667a.css.map",
+    "main.1dcca39e.js.map": "/HairSalonWebsite/static/js/main.1dcca39e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a33667a.css",
+    "static/js/main.1dcca39e.js"
+  ]
+}
