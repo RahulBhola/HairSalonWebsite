@@ -61,6 +61,7 @@ This website is functional for all devices same you can see below:-
 ![Screenshot (466)](https://github.com/RahulBhola/HairSalonWebsite/assets/104344946/d2ecaa2b-9f7e-4399-b4dd-4adc130361ec)
 
 12. Responsiveness for Different devices:
+
 ![Screenshot (467)](https://github.com/RahulBhola/HairSalonWebsite/assets/104344946/52f93b08-0dfe-4dfb-b2b8-0bad2a04e72c)
 
 ![Screenshot (468)](https://github.com/RahulBhola/HairSalonWebsite/assets/104344946/4a688515-6ed3-49dc-ae37-65150b4e586d)
